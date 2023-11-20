@@ -1,4 +1,4 @@
-module github.com/Lusha404/protos
+module github.com/Lusha404/gprotos
 
 go 1.21.1
 
