@@ -3,7 +3,6 @@ syntax = "proto3";
 package auth;
 
 option go_package = "lusha.sso.v1;ssov1";
-// Сервис  Аутх с тремя методами (Register)
 
 service Auth {
   rpc Register(RegisterRequest) returns (RegisterResponse);
